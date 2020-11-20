@@ -1,12 +1,15 @@
 {
   "name": "virtual-keyboard",
   "version": "1.0.0",
-  "description": "",
+  "description": "starter projet for virtual keyboard",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
+    "browser-sync": "^2.26.13",
     "gulp": "^4.0.2",
-    "gulp-compass": "^2.1.0"
+    "gulp-compass": "^2.1.0",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^5.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
